@@ -358,7 +358,7 @@ body {
   color: #34495e;
   font-size: 15px;
   line-height: 1.6;
-  font-family: 'Source Sans Pro', 'Helvetica Neue', Arial, sans-serif; }
+  font-family: Times, 'Times New Roman','Source Sans Pro', 'Helvetica Neue', Arial, sans-serif; }
 
 ul.nav,
 ul.post-list {
@@ -515,7 +515,7 @@ header {
   font-weight: bold;
   text-align: center;
   background-color: #f66;
-  font-family: "Times New Roman", Times; }
+  font-family: 'Dosis', 'Source Sans Pro', 'Helvetica Neue', Arial, sans-serif; }
 
 code,
 pre {
